@@ -132,15 +132,6 @@ a world where *education and imagination finally meet*, and every subject become
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="pic.2.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
-
 
 ## 📊 Market Opportunity  
 
@@ -152,11 +143,69 @@ The global shift toward **immersive education** presents a massive opportunity f
 - 🧒 With **250+ million students** and expanding digital infrastructure, India is one of the fastest-growing EdTech ecosystems.  
 - 🌐 **Affordable VR headsets and smartphone-based AR** lower accessibility barriers, enabling scalable deployment across schools.  
 
+
+
+> 📈 EduVerse is not just aligned with the market — it’s positioned to *lead* the transformation of classroom learning in the digital era.  
+
+
+---
+
+## 💰 Revenue Opportunities  
+
+**KiKsARVR EduVerse** follows a scalable and multi-channel revenue model that aligns with both educational impact and business sustainability.  
+
+### 🧭 1. B2B Model — Institutional Partnerships  
+- 🏫 **School Subscriptions (Annual Licensing)** — Per-student or per-classroom subscription for VR/AR modules.  
+- 🎒 **Smart Classroom Packages** — Bundled VR-ready kits (headsets + software) for schools.  
+- 👩‍🏫 **Teacher Training Programs** — Paid certification for teachers on immersive learning pedagogy.  
+
+### 🏛️ 2. B2G Model — Government & Board Integrations  
+- 📘 **Curriculum Integration Contracts** — Partnerships with NCERT and State Boards for VR-based syllabus modules.  
+- 🇮🇳 **Digital India / Samagra Shiksha** — Low-cost AR content for rural and government schools.  
+- 💼 **CSR Collaborations** — Tie-ups with corporates funding digital education through CSR.  
+
+### 👩‍💻 3. B2C Model — Direct-to-Student Subscriptions  
+- 🎮 **Freemium App Model** — Free access to basic modules; premium lessons unlocked via subscription.  
+- 🏆 **Gamified Learning Pass** — Competitive quizzes, badges, and certificates as part of a paid tier.  
+- 🪄 **AR Revision Packs** — Micro-subscription for quick AR flashcard-based revisions.  
+
+### 🤝 4. Strategic Collaborations  
+- 💡 **EdTech Integrations** — White-label immersive modules for major learning platforms (BYJU’S, Vedantu, etc.).  
+- 📦 **Content Licensing** — License subject-specific VR environments to other EdTechs.  
+- 🥽 **Hardware Partnerships** — Preloaded content bundles with VR headset manufacturers.  
+
+### 🌍 5. Future Revenue Streams  
+- 🏪 **EduVerse Marketplace** — Platform for educators to upload and monetize custom VR lessons.  
+- 🤖 **AI Tutor-as-a-Service (AITaaS)** — Licensing EduVerse’s AI learning assistant to other education platforms.  
+- 📊 **Data Analytics Dashboard** — Subscription access for institutions to view engagement insights and learning analytics.  
+
+---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="pic.2.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
+### 💹 Example Revenue Projection  
+
+| Revenue Stream | Year 1 | Year 2 | Year 3 | Growth |
+|----------------|--------|--------|--------|--------|
+| School Subscriptions | ₹20L | ₹60L | ₹1.2Cr | 200% |
+| Government Projects | ₹15L | ₹50L | ₹1Cr | 233% |
+| B2C Subscriptions | ₹5L | ₹20L | ₹40L | 200% |
+| EdTech Partnerships | ₹10L | ₹25L | ₹60L | 140% |
+| **Total Estimated Revenue** | **₹50L** | **₹1.55Cr** | **₹3.2Cr** | — |
+
 </td>
 </tr>
 </table>
 
-> 📈 EduVerse is not just aligned with the market — it’s positioned to *lead* the transformation of classroom learning in the digital era.  
+> 💡 *KiKsARVR EduVerse aims to blend purpose with profitability — empowering every learner while building a sustainable EdTech ecosystem.*  
+
 
 
 ---
