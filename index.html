@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>KiXR's EduVerse – Immersive Learning</title>
+<style>
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Poppins", sans-serif;
+}
+
+body {
+background: radial-gradient(circle at top, #0a043c, #000428);
+color: #fff;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+min-height: 100vh;
+overflow-x: hidden;
+}
+
+header {
+position: fixed;
+top: 0;
+width: 100%;
+background: rgba(255, 255, 255, 0.05);
+backdrop-filter: blur(10px);
+text-align: center;
+padding: 20px 0;
+font-weight: 600;
+color: #ffea00;
+font-size: 1.5rem;
+box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+z-index: 100;
+}
+
+header span {
+color: #00d4ff;
+}
+
+.container {
+width: 90%;
+max-width: 700px;
+background: rgba(255, 255, 255, 0.08);
+backdrop-filter: blur(10px);
+border-radius: 20px;
+padding: 40px 30px;
+text-align: center;
+margin-top: 120px;
+animation: fadeIn 0.6s ease-in-out;
+box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+}
+
+h1 {
+color: #ffea00;
+margin-bottom: 15px;
+}
+
+p {
+color: #e0e0e0;
+margin-bottom: 20px;
+}
+
+button {
+background: linear-gradient(90deg, #00d4ff, #00ffa3);
+border: none;
+border-radius: 8px;
+color: #000;
+padding: 10px 20px;
+margin: 10px;
+font-weight: 600;
+cursor: pointer;
+transition: all 0.3s ease;
+box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+}
+
+button:hover {
+transform: translateY(-2px) scale(1.05);
+background: linear-gradient(90deg, #ffea00, #00d4ff);
+}
+
+.back-btn {
+margin-top: 25px;
+display: inline-block;
+color: #fff;
+border: 2px solid #fff;
+background: transparent;
+padding: 8px 18px;
+border-radius: 8px;
+}
+
+.back-btn:hover {
+background: #ffea00;
+color: #000;
+}
+
+.hidden {
+display: none;
+}
+
+.class-grid {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+gap: 15px;
+justify-items: center;
+margin-top: 20px;
+}
+
+.class-box {
+width: 80px;
+height: 80px;
+background: rgba(255, 255, 255, 0.1);
+border-radius: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+color: #ffea00;
+font-weight: bold;
+font-size: 1.2rem;
+cursor: pointer;
+transition: all 0.3s ease;
+}
+
+.class-box:hover {
+background: #ffea00;
+color: #000;
+transform: scale(1.1);
+}
+
+/* Popup */
+.popup {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background: rgba(0, 0, 0, 0.75);
+display: flex;
+justify-content: center;
+align-items: center;
+z-index: 999;
+}
+
+.popup-content {
+background: rgba(0, 0, 50, 0.9);
+border: 2px solid #ffea00;
+border-radius: 15px;
+padding: 30px;
+text-align: center;
+width: 320px;
+animation: scaleIn 0.4s ease;
+}
+
+.popup-content img {
+width: 70px;
+margin-bottom: 10px;
+filter: drop-shadow(0px 0px 8px #ffea00);
+}
+
+.popup-content h2 {
+color: #ffea00;
+margin-bottom: 10px;
+}
+
+.close-popup {
+background: #ffea00;
+color: #000;
+font-weight: bold;
+padding: 8px 16px;
+border: none;
+border-radius: 8px;
+margin-top: 15px;
+cursor: pointer;
+transition: all 0.3s ease;
+}
+
+.close-popup:hover {
+background: #00d4ff;
+}
+
+@keyframes fadeIn {
+from { opacity: 0; transform: translateY(30px); }
+to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes scaleIn {
+from { transform: scale(0.8); opacity: 0; }
+to { transform: scale(1); opacity: 1; }
+}
+</style>
+</head>
+<body>
+<header>Welcome to <span>KiXR's EduVerse</span></header>
+
+<!-- Login Page -->
+<div class="container" id="login-page">
+<h1>Explore the Future of Learning</h1>
+<p>Step into a world where lessons come alive through AR & VR experiences.</p>
+<button onclick="showPage('class-page')">Login to Begin</button>
+</div>
+
+<!-- Class Page -->
+<div class="container hidden" id="class-page">
+<h1>Select Your Class</h1>
+<div class="class-grid">
+<div class="class-box" onclick="showPage('subject-page')">1</div>
+<div class="class-box" onclick="showPage('subject-page')">2</div>
+<div class="class-box" onclick="showPage('subject-page')">3</div>
+<div class="class-box" onclick="showPage('subject-page')">4</div>
+<div class="class-box" onclick="showPage('subject-page')">5</div>
+<div class="class-box" onclick="showPage('subject-page')">6</div>
+<div class="class-box" onclick="showPage('subject-page')">7</div>
+<div class="class-box" onclick="showPage('subject-page')">8</div>
+<div class="class-box" onclick="showPage('subject-page')">9</div>
+<div class="class-box" onclick="showPage('subject-page')">10</div>
+<div class="class-box" onclick="showPage('subject-page')">11</div>
+<div class="class-box" onclick="showPage('subject-page')">12</div>
+</div>
+<button class="back-btn" onclick="goBack()">← Back</button>
+</div>
+
+<!-- Subject Page -->
+<div class="container hidden" id="subject-page">
+<h1>Select Subject</h1>
+<button onclick="showPage('lesson-page')">Biology</button>
+<button onclick="showPage('lesson-page')">Physics</button>
+<button onclick="showPage('lesson-page')">Chemistry</button>
+<button onclick="showPage('lesson-page')">History</button>
+<button class="back-btn" onclick="goBack()">← Back</button>
+</div>
+
+<!-- Lesson Page -->
+<div class="container hidden" id="lesson-page">
+<h1>Select a Lesson</h1>
+<button onclick="showPage('topic-page')">Lesson 1: Human Heart</button>
+<button onclick="showPage('topic-page')">Lesson 2: Circulatory System</button>
+<button onclick="showPage('topic-page')">Lesson 3: Respiration</button>
+<button class="back-btn" onclick="goBack()">← Back</button>
+</div>
+
+<!-- Topic Page -->
+<div class="container hidden" id="topic-page">
+<h1>The Human Heart</h1>
+<p>The heart is a muscular organ that pumps blood through the body — keeping life in motion.</p>
+<button onclick="showPage('definition-page')">Definition</button>
+<button onclick="showPopup('vr')">KiXR's EduVerse!</button>
+<button onclick="showPopup('quiz')">Quiz</button>
+<button onclick="showPopup('pdf')">Download PDF</button>
+<button class="back-btn" onclick="goBack()">← Back</button>
+</div>
+
+<!-- Definition Page -->
+<div class="container hidden" id="definition-page">
+<h1>Definition — Human Heart</h1>
+<p>The heart is a four-chambered organ that circulates blood throughout the body, supplying oxygen and removing waste.</p>
+<button class="back-btn" onclick="goBack()">← Back</button>
+</div>
+
+<script>
+const pages = ["login-page", "class-page", "subject-page", "lesson-page", "topic-page", "definition-page"];
+let pageStack = [];
+
+function showPage(id) {
+pages.forEach(p => document.getElementById(p)?.classList.add('hidden'));
+document.getElementById(id).classList.remove('hidden');
+pageStack.push(id);
+}
+
+function goBack() {
+pageStack.pop();
+const prev = pageStack.pop() || "login-page";
+showPage(prev);
+}
+
+function showPopup(type) {
+let content = "";
+if (type === "vr") {
+content = `<img src="https://img.icons8.com/fluency/96/virtual-reality.png"/><h2>Entering KiXR's EduVerse!</h2><p>Experience the Human Heart in full 3D VR environment!</p>`;
+} else if (type === "quiz") {
+content = `<img src="https://img.icons8.com/color/96/quiz.png"/><h2>Quiz Mode</h2><p>Answer fun, interactive questions to test your understanding!</p>`;
+} else if (type === "pdf") {
+content = `<img src="https://img.icons8.com/color/96/pdf-2.png"/><h2>Download PDF</h2><p>Your study material is being prepared for download.</p>`;
+}
+
+const popup = document.createElement("div");
+popup.className = "popup";
+popup.innerHTML = `
+<div class="popup-content">
+${content}
+<button class="close-popup" onclick="this.parentElement.parentElement.remove()">Close</button>
+</div>`;
+document.body.appendChild(popup);
+}
+</script>
+</body>
+</html>
