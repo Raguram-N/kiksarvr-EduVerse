@@ -95,6 +95,15 @@ a world where *education and imagination finally meet*, and every subject become
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="solution . 2.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ## 🎯 Target Audience  
 
 **KiKsARVR EduVerse** is designed for learners, educators, and institutions who believe education should be *experienced*, not memorized.  
@@ -117,7 +126,21 @@ a world where *education and imagination finally meet*, and every subject become
 - Supports **Digital India** and **NEP 2020** initiatives promoting tech-based education.  
 - Offers low-cost AR options for rural and semi-urban schools to bridge the digital divide.  
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="solution . 2.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 
 ## 📊 Market Opportunity  
 
@@ -130,6 +153,11 @@ The global shift toward **immersive education** presents a massive opportunity f
 - 🌐 **Affordable VR headsets and smartphone-based AR** lower accessibility barriers, enabling scalable deployment across schools.  
 
 > 📈 EduVerse is not just aligned with the market — it’s positioned to *lead* the transformation of classroom learning in the digital era.  
+
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -145,6 +173,7 @@ The global shift toward **immersive education** presents a massive opportunity f
 | **AR Mode (Mobile)** | ARCore, ARKit |
 
 ---
+
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
@@ -183,6 +212,13 @@ The global shift toward **immersive education** presents a massive opportunity f
 By blending **UI/UX principles**, **AR/VR technologies**, and **AI personalization**, EduVerse turns every classroom into a world of exploration and wonder.  
 
 > “The future of education isn’t on paper — it lives inside the experience.”  
+
+---
+
+## 📈 Research proof
+
+- Conceptual Learning Gaps in Indian Education - [Link](https://github.com/Raguram-N/Eduverse-proof-1/blob/main/README.md)
+- How Virtual Reality (VR) Enhances Concept Clarity in Education - [Link](https://github.com/Raguram-N/Eduverse-research-proof/blob/main/README.md) 
 
 ---
 
