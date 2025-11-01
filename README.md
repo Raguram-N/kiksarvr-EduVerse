@@ -95,6 +95,10 @@ a world where *education and imagination finally meet*, and every subject become
 
 ---
 
+## 🎯 Target Audience  
+
+**KiKsARVR EduVerse** is designed for learners, educators, and institutions who believe education should be *experienced*, not memorized.  
+
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
@@ -103,10 +107,6 @@ a world where *education and imagination finally meet*, and every subject become
 
 </td>
 <td width="60%" valign="top">
-
-## 🎯 Target Audience  
-
-**KiKsARVR EduVerse** is designed for learners, educators, and institutions who believe education should be *experienced*, not memorized.  
 
 ### 👧 Students (Ages 8–16)  
 - Focused on upper primary and secondary school students.  
@@ -136,7 +136,7 @@ a world where *education and imagination finally meet*, and every subject become
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="solution . 2.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="pic.2.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -152,12 +152,12 @@ The global shift toward **immersive education** presents a massive opportunity f
 - 🧒 With **250+ million students** and expanding digital infrastructure, India is one of the fastest-growing EdTech ecosystems.  
 - 🌐 **Affordable VR headsets and smartphone-based AR** lower accessibility barriers, enabling scalable deployment across schools.  
 
-> 📈 EduVerse is not just aligned with the market — it’s positioned to *lead* the transformation of classroom learning in the digital era.  
-
-
 </td>
 </tr>
 </table>
+
+> 📈 EduVerse is not just aligned with the market — it’s positioned to *lead* the transformation of classroom learning in the digital era.  
+
 
 ---
 
