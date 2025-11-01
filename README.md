@@ -1,11 +1,9 @@
 # Case study
 ## 🎓 KiKsARVR EduVerse — Immersive VR Learning Experience  
 
-**KiKsARVR EduVerse** is a Virtual Reality (VR) learning platform designed to transform traditional education into an immersive, interactive experience.  
+**KiKsARVR EduVerse** is a Virtual Reality (VR) learning platform designed to transform traditional education into an immersive, interactive experience. The goal is to help students understand complex subjects — like science, history, and geography — through **3D visualization**, **gamified learning**, and **experiential storytelling**.  
 
-The goal is to help school students understand complex subjects — like science, history, and geography — through **3D visualization**, **gamified learning**, and **experiential storytelling**.  
-
-EduVerse bridges the gap between *textbook theory* and *real-world imagination*, turning lessons into journeys students can **see, touch, and experience**.
+> ✨ KiKsARVR EduVerse reimagines the future of education — where knowledge isn’t just read, it’s experience.
 
 ---
 
@@ -210,7 +208,7 @@ The global shift toward **immersive education** presents a massive opportunity f
 
 ## 🏁 Conclusion  
 
-**KiKsARVR EduVerse** reimagines the future of education — where knowledge isn’t just read, it’s *experienced*.  
+**KiKsARVR EduVerse** bridges the gap between *textbook theory* and *real-world imagination*, turning lessons into journeys students can **see, touch, and experience**.
 By blending **UI/UX principles**, **AR/VR technologies**, and **AI personalization**, EduVerse turns every classroom into a world of exploration and wonder.  
 
 > “The future of education isn’t on paper — it lives inside the experience.”  
