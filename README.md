@@ -10,22 +10,23 @@ EduVerse bridges the gap between *textbook theory* and *real-world imagination*,
 ---
 
 ## 💭 The Story – The Spark  
-
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="Care taker.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="problem statement.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
 
+
 ### 🎒 The Observation  
+
 While observing classroom environments, I noticed a common challenge — students were memorizing facts they didn’t truly understand.  
 Their notebooks were filled with notes, but their eyes lacked curiosity. Theoretical lessons often failed to translate into real understanding.  
 
-In a typical science class, when the teacher explained “the human digestive system,” students could name the organs — but few truly understood *how* they worked together.  
-The problem wasn’t intelligence — it was imagination.  
+> In a typical science class, when the teacher explained “the human digestive system,” students could name the organs — but few truly understood *how* they worked together.  
+> The problem wasn’t intelligence — it was imagination.  
 
 </td>
 </tr>
@@ -37,12 +38,13 @@ The problem wasn’t intelligence — it was imagination.
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="Care taker.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="Solution.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
 
-### 💡 The Innovation  
+### 💡 The Innovation 
+
 That’s when I asked myself:  
 
 > “What if students could *walk inside a human cell*?  
@@ -57,6 +59,16 @@ a world where *education and imagination finally meet*, and every subject become
 
 ---
 
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="solution . 1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ## ✨ Key Features  
 
 - 🧍‍♂️ **3D Immersive Lessons** — Explore subjects like Science, History, and Geography in lifelike 3D environments.  
@@ -65,6 +77,10 @@ a world where *education and imagination finally meet*, and every subject become
 - 🏆 **Gamified Progress Tracking** — Earn badges, unlock levels, and compete in quiz challenges.  
 - 💬 **AI Learning Assistant** — Voice-based chatbot to explain lessons and guide navigation.  
 - 👓 **AR Mode (Mobile)** — Allows students without VR headsets to experience lessons through Augmented Reality.  
+
+</td>
+</tr>
+</table>
 
 ---
 
