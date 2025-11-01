@@ -1,11 +1,8 @@
-# 🎓 KiKsARVR EduVerse — Immersive VR Learning Experience  
-*A UI/UX Case Study by Raguram Narayanaswamy*  
-
----
-
-## 🧠 Overview  
+# Case study
+## 🎓 KiKsARVR EduVerse — Immersive VR Learning Experience  
 
 **KiKsARVR EduVerse** is a Virtual Reality (VR) learning platform designed to transform traditional education into an immersive, interactive experience.  
+
 The goal is to help school students understand complex subjects — like science, history, and geography — through **3D visualization**, **gamified learning**, and **experiential storytelling**.  
 
 EduVerse bridges the gap between *textbook theory* and *real-world imagination*, turning lessons into journeys students can **see, touch, and experience**.
@@ -14,12 +11,36 @@ EduVerse bridges the gap between *textbook theory* and *real-world imagination*,
 
 ## 💭 The Story – The Spark  
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="Care taker.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ### 🎒 The Observation  
 While observing classroom environments, I noticed a common challenge — students were memorizing facts they didn’t truly understand.  
 Their notebooks were filled with notes, but their eyes lacked curiosity. Theoretical lessons often failed to translate into real understanding.  
 
 In a typical science class, when the teacher explained “the human digestive system,” students could name the organs — but few truly understood *how* they worked together.  
 The problem wasn’t intelligence — it was imagination.  
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="Care taker.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ### 💡 The Innovation  
 That’s when I asked myself:  
@@ -29,6 +50,10 @@ That’s when I asked myself:
 
 That question became the foundation of **KiKsARVR EduVerse** —  
 a world where *education and imagination finally meet*, and every subject becomes a **living experience**.  
+
+</td>
+</tr>
+</table>
 
 ---
 
