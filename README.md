@@ -3,7 +3,7 @@
 
 **KiKsARVR EduVerse** is a Virtual Reality (VR) learning platform designed to transform traditional education into an immersive, interactive experience. The goal is to help students understand complex subjects — like science, history, and geography — through **3D visualization**, **gamified learning**, and **experiential storytelling**.  
 
-> ✨ KiKsARVR EduVerse reimagines the future of education — where knowledge isn’t just read, it’s experience.
+> ✨ KiKsARVR EduVerse reimagines the future of education — where knowledge isn’t just reading, it’s an experience.
 
 ---
 
