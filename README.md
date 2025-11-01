@@ -102,7 +102,8 @@ a world where *education and imagination finally meet*, and every subject become
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-
+  
+<img src="solution . 1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 <img src="solution . 2.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
@@ -158,6 +159,8 @@ The global shift toward **immersive education** presents a massive opportunity f
 
 <img src="Revenue.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
+<img src="pic.2.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
 </td>
 <td width="60%" valign="top">
 
@@ -194,14 +197,7 @@ The global shift toward **immersive education** presents a massive opportunity f
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
 
-<img src="pic.2.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
 
 ### 💹 Example Revenue Projection  
 
@@ -213,9 +209,6 @@ The global shift toward **immersive education** presents a massive opportunity f
 | EdTech Partnerships | ₹10L | ₹25L | ₹60L | 140% |
 | **Total Estimated Revenue** | **₹50L** | **₹1.55Cr** | **₹3.2Cr** | — |
 
-</td>
-</tr>
-</table>
 
 > 💡 *KiKsARVR EduVerse aims to blend purpose with profitability — empowering every learner while building a sustainable EdTech ecosystem.*  
 
@@ -275,10 +268,12 @@ The global shift toward **immersive education** presents a massive opportunity f
 
 ---
 
-## 🏁 Conclusion  
+## 🏁 Conclusion
+
 
 **KiKsARVR EduVerse** bridges the gap between *textbook theory* and *real-world imagination*, turning lessons into journeys students can **see, touch, and experience**.
 By blending **UI/UX principles**, **AR/VR technologies**, and **AI personalization**, EduVerse turns every classroom into a world of exploration and wonder.  
+
 
 > “The future of education isn’t on paper — it lives inside the experience.”  
 
