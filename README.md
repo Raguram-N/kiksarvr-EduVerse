@@ -60,14 +60,6 @@ a world where *education and imagination finally meet*, and every subject become
 ---
 
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="solution . 1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
 
 ## ✨ Key Features  
 
@@ -78,9 +70,7 @@ a world where *education and imagination finally meet*, and every subject become
 - 💬 **AI Learning Assistant** — Voice-based chatbot to explain lessons and guide navigation.  
 - 👓 **AR Mode (Mobile)** — Allows students without VR headsets to experience lessons through Augmented Reality.  
 
-</td>
-</tr>
-</table>
+
 
 ---
 
@@ -155,6 +145,14 @@ The global shift toward **immersive education** presents a massive opportunity f
 | **AR Mode (Mobile)** | ARCore, ARKit |
 
 ---
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="Me 2.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ## 🚀 Future Tech Scope  
 
@@ -172,6 +170,10 @@ The global shift toward **immersive education** presents a massive opportunity f
 - 👨‍👩‍👧 **Parent Dashboard** – Real-time student progress tracking and engagement insights.  
 - 🪄 **AR Flashcards** – Quick lesson previews for revision without headsets.  
 - 💫 **Offline Mode** – Downloadable modules for rural or low-internet regions.  
+
+</td>
+</tr>
+</table>
 
 ---
 
