@@ -83,6 +83,8 @@ a world where *education and imagination finally meet*, and every subject become
 5. **Quiz Challenge** → Test knowledge with gamified, real-time feedback.  
 6. **Progress Summary** → View performance, badges, and teacher feedback.  
 
+> ### Sample prototype demo: [Link](https://raguram-n.github.io/kiksarvr-EduVerse/)
+
 ---
 
 ## 💡 Benefits  
