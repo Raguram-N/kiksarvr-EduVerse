@@ -152,6 +152,15 @@ The global shift toward **immersive education** presents a massive opportunity f
 
 ## 💰 Revenue Opportunities  
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="Revenue.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 **KiKsARVR EduVerse** follows a scalable and multi-channel revenue model that aligns with both educational impact and business sustainability.  
 
 ### 🧭 1. B2B Model — Institutional Partnerships  
@@ -178,6 +187,10 @@ The global shift toward **immersive education** presents a massive opportunity f
 - 🏪 **EduVerse Marketplace** — Platform for educators to upload and monetize custom VR lessons.  
 - 🤖 **AI Tutor-as-a-Service (AITaaS)** — Licensing EduVerse’s AI learning assistant to other education platforms.  
 - 📊 **Data Analytics Dashboard** — Subscription access for institutions to view engagement insights and learning analytics.  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -255,15 +268,6 @@ The global shift toward **immersive education** presents a massive opportunity f
 
 ---
 
-## 🏁 Conclusion  
-
-**KiKsARVR EduVerse** bridges the gap between *textbook theory* and *real-world imagination*, turning lessons into journeys students can **see, touch, and experience**.
-By blending **UI/UX principles**, **AR/VR technologies**, and **AI personalization**, EduVerse turns every classroom into a world of exploration and wonder.  
-
-> “The future of education isn’t on paper — it lives inside the experience.”  
-
----
-
 ## 📈 Research proof
 
 - Conceptual Learning Gaps in Indian Education - [Link](https://github.com/Raguram-N/Eduverse-proof-1/blob/main/README.md)
@@ -271,8 +275,22 @@ By blending **UI/UX principles**, **AR/VR technologies**, and **AI personalizati
 
 ---
 
-### 👨‍💻 Author  
-**Raguram Narayanaswamy**  
-UI/UX Designer | Product Thinker | EdTech Enthusiast  
+## 🏁 Conclusion  
+
+**KiKsARVR EduVerse** bridges the gap between *textbook theory* and *real-world imagination*, turning lessons into journeys students can **see, touch, and experience**.
+By blending **UI/UX principles**, **AR/VR technologies**, and **AI personalization**, EduVerse turns every classroom into a world of exploration and wonder.  
+
+> “The future of education isn’t on paper — it lives inside the experience.”  
+
+
+---
+
+### ✍️ Author  
+**RAGURAM NARAYANASWAMY**  
+QA | UX Research | Growth Strategy | Product Management
+
+
+### 📂 Repo Purpose  
+**Product Case Study & Growth Proposal for KiXR**  
 
 ---
